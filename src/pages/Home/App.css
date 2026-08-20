@@ -1,0 +1,14 @@
+@font-face {
+  font-display: block;
+  font-family: Mori;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://assets.codepen.io/16327/PPMori-Regular.woff) format("woff");
+}
+
+body {
+  font-family: Mori, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #0e100f;
+}
