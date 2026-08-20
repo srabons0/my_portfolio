@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+.panel {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.description {
+  background: #111;
+  font-size: 40px;
+}
+
+.green { background: #00ff88; color: black; }
+.purple { background: #7b2cff; }
+.blue { background: #00bfff; }
